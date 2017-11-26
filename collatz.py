@@ -1,9 +1,8 @@
-# naive implementation of collatz conjecture
 import matplotlib.pyplot as plt
 import numpy as np
 import time
 
-# Recursion problem
+
 def collatz_conjecture(number):
     """
     Collatz Conjecture
